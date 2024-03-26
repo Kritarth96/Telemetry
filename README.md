@@ -1,5 +1,4 @@
-# stunning-potato
-## **Vehicle Telemetry Device**
+### **Vehicle Telemetry Device**
 
 # Overview
 
